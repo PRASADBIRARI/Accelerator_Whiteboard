@@ -1,0 +1,39 @@
+{
+  "name": "accelerator",
+  "version": "2.0.0",
+  "description": "WebRTC Collaboration/Presentation Tool",
+  "main": "server.js",
+  "directories": {},
+  "scripts": {
+    "test": "echo \"No tests needed!\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PRASADBIRARI/KKW_Whiteboard"
+  },
+  "keywords": [
+    "webrtc",
+    "collaboration",
+    "conference",
+    "accelerator"
+  ],
+  "dependencies": {
+    "dompurify": "^2.2.2",
+    "express": "^4.17.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "formidable": "^1.2.2",
+    "fs-extra": "^8.1.0",
+    "jsdom": "^16.4.0",
+    "puppeteer": "^2.1.1",
+    "socket.io": "^2.4.0",
+    "yauzl": "^2.10.0"
+  },
+  "author": "Prasad Birari",
+  "contributors": [
+    {
+      "name": "Prasad Birari",
+      "email": "prasadbirari7@gmail.com"
+    }
+  ],
+  "license": "GPL-3.0-or-later"
+}
